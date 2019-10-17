@@ -1,0 +1,11 @@
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\bin\Debug\netcoreapp2.2\DiceRollingApp.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\bin\Debug\netcoreapp2.2\DiceRollingApp.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\bin\Debug\netcoreapp2.2\DiceRollingApp.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\bin\Debug\netcoreapp2.2\DiceRollingApp.dll
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\bin\Debug\netcoreapp2.2\DiceRollingApp.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\obj\Debug\netcoreapp2.2\DiceRollingApp.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\obj\Debug\netcoreapp2.2\DiceRollingApp.csproj.CoreCompileInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\obj\Debug\netcoreapp2.2\DiceRollingApp.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\obj\Debug\netcoreapp2.2\DiceRollingApp.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\obj\Debug\netcoreapp2.2\DiceRollingApp.dll
+C:\Users\jbenk\Desktop\bootcamp2019\DiceRollingApp\obj\Debug\netcoreapp2.2\DiceRollingApp.pdb
